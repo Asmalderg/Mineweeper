@@ -1,2 +1,2 @@
 # Mineweeper
-Test project
+Java minersweeper project
